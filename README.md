@@ -10,7 +10,7 @@ I recommend first installing Anaconda Python (https://www.anaconda.com/products/
 
 Once Python is installed, download this repository and run:
 
-cd Thompson_et_al_2022
+cd Thompson_et_al_2023
 
 python setup.py install
 
