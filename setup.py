@@ -8,8 +8,8 @@ setup(
     description='Automated Recommendation for Microbiome Optimization using Rational Experimental Design',
     author='Jaron Thompson',
     license='MIT',
-    install_requires=['numpy==1.22.3',
-                      'pandas==1.4.1',
-                      'jax==0.3.4',
-                      'jaxlib==0.3.2'],
+    install_requires=['numpy',
+                      'pandas',
+                      'jax',
+                      'jaxlib'],
 )
